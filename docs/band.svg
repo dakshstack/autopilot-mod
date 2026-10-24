@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="128" viewBox="0 0 960 128" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14">
+<title>Autopilot band</title>
+<defs><clipPath id="win"><rect width="960" height="128" rx="12"/></clipPath></defs>
+<g clip-path="url(#win)">
+<rect width="960" height="128" fill="#13111F"/>
+<rect width="960" height="36" fill="#1E1A33"/>
+<circle cx="22" cy="18" r="6" fill="#FF5F57"/><circle cx="42" cy="18" r="6" fill="#FEBC2E"/><circle cx="62" cy="18" r="6" fill="#28C840"/>
+<text x="480.0" y="23" text-anchor="middle" fill="#94A3B8" font-size="13">Autopilot band</text>
+
+<text x="20.0" y="62" fill="#64748B" xml:space="preserve">╭────────────────────────────────────────────────────────────────────────────────────────────────────────────</text>
+<text x="20.0" y="82" fill="#F472B6" xml:space="preserve">⠹ </text>
+<text x="36.8" y="82" fill="#A78BFA" font-weight="bold" xml:space="preserve">Edit</text>
+<text x="70.4" y="82" fill="#94A3B8" xml:space="preserve"> register.tsx</text>
+<text x="179.6" y="82" fill="#22D3EE" xml:space="preserve"> 1m 12s</text>
+<text x="238.4" y="82" fill="#64748B" xml:space="preserve"> • </text>
+<rect x="263.6" y="69" width="117.6" height="18" rx="4" fill="#A78BFA"/>
+<text x="272.0" y="82" fill="#0F0A1F" font-weight="bold" xml:space="preserve">✈ sonnet·std</text>
+<text x="381.2" y="82" fill="#64748B" xml:space="preserve"> • </text>
+<text x="406.4" y="82" fill="#4ADE80" xml:space="preserve">🤖 2</text>
+<text x="440.0" y="82" fill="#64748B" xml:space="preserve"> • </text>
+<text x="465.2" y="82" fill="#94A3B8" xml:space="preserve">5h </text>
+<text x="490.4" y="82" fill="#FBBF24" font-weight="bold" xml:space="preserve">58%</text>
+<text x="515.6" y="82" fill="#64748B" xml:space="preserve"> • </text>
+<text x="540.8" y="82" fill="#94A3B8" xml:space="preserve">ctx </text>
+<text x="574.4" y="82" fill="#22D3EE" xml:space="preserve">21%</text>
+<text x="599.6" y="82" fill="#64748B" xml:space="preserve"> • </text>
+<text x="624.8" y="82" fill="#FBBF24" xml:space="preserve">⎇ feature/wire</text>
+<text x="742.4" y="82" fill="#F472B6" xml:space="preserve"> ●5</text>
+<text x="767.6" y="82" fill="#64748B" xml:space="preserve"> • </text>
+<text x="792.8" y="82" fill="#A78BFA" font-weight="bold" xml:space="preserve">Lv4</text>
+<text x="818.0" y="82" fill="#FBBF24" xml:space="preserve"> 🔥3d</text>
+<text x="860.0" y="82" fill="#E8E6F5" xml:space="preserve">  </text>
+<text x="876.8" y="82" fill="#4ADE80" xml:space="preserve">tl;dr ✓</text>
+<text x="935.6" y="82" fill="#E8E6F5" xml:space="preserve"> </text>
+<text x="944.0" y="82" fill="#22D3EE" xml:space="preserve">⧉</text>
+<text x="20.0" y="102" fill="#94A3B8" xml:space="preserve">&gt; </text>
+<rect x="36.8" y="91" width="8.4" height="16" fill="#E8E6F5" opacity="0.85"/>
+</g>
+<rect x="0.5" y="0.5" width="959" height="127" rx="12" fill="none" stroke="#2A2545"/>
+</svg>

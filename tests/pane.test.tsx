@@ -15,7 +15,7 @@ test('the pane shows the repo, the last run and offers a fix', async ($, on) => 
   }))
   on('process.run', (_: unknown, e: any) => ({
     value:
-      e.argv[1] === 'status'
+      e.argv.includes('status')
         ? { exitCode: 0, stdout: '# branch.head main\n# branch.ab +2 -0\n1 .M N... 100644 100644 100644 a b src/app.ts\n? notes.md\n', stderr: '', isStdoutTruncated: false, isStderrTruncated: false }
         : { exitCode: 0, stdout: '1759999000\tfix auth flow\n', stderr: '', isStdoutTruncated: false, isStderrTruncated: false },
   }))

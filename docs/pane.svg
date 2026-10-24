@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="792" viewBox="0 0 440 792" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14">
+<title>✈ Autopilot</title>
+<defs><clipPath id="win"><rect width="440" height="792" rx="12"/></clipPath></defs>
+<g clip-path="url(#win)">
+<rect width="440" height="792" fill="#13111F"/>
+<rect width="440" height="36" fill="#1E1A33"/>
+<circle cx="22" cy="18" r="6" fill="#FF5F57"/><circle cx="42" cy="18" r="6" fill="#FEBC2E"/><circle cx="62" cy="18" r="6" fill="#28C840"/>
+<text x="220.0" y="23" text-anchor="middle" fill="#94A3B8" font-size="13">✈ Autopilot</text>
+<rect x="10" y="48" width="389.6" height="48" rx="8" fill="#1E1A33" stroke="#A78BFA" stroke-width="1.5"/>
+<rect x="10" y="708" width="389.6" height="68" rx="8" fill="#1E1A33" stroke="#A78BFA" stroke-width="1.5"/>
+<text x="28.4" y="66" fill="#A78BFA" xml:space="preserve">⠹ </text>
+<text x="45.2" y="66" fill="#A78BFA" font-weight="bold" xml:space="preserve">Working</text>
+<text x="104.0" y="66" fill="#22D3EE" xml:space="preserve"> 1m 12s</text>
+<text x="162.8" y="66" fill="#94A3B8" xml:space="preserve">  14 tools</text>
+<text x="28.4" y="86" fill="#F472B6" font-weight="bold" xml:space="preserve">Edit</text>
+<text x="62.0" y="86" fill="#94A3B8" xml:space="preserve"> register.tsx</text>
+<text x="171.2" y="86" fill="#22D3EE" xml:space="preserve"> 3s</text>
+<rect x="20.0" y="113" width="50.4" height="18" rx="4" fill="#F472B6"/>
+<text x="28.4" y="126" fill="#0F0A1F" font-weight="bold" xml:space="preserve">WIRE</text>
+<text x="70.4" y="126" fill="#94A3B8" xml:space="preserve">  2 in flight</text>
+<text x="20.0" y="146" fill="#A78BFA" font-weight="bold" xml:space="preserve">main </text>
+<text x="62.0" y="146" fill="#64748B" xml:space="preserve">──</text>
+<text x="78.8" y="146" fill="#A78BFA" xml:space="preserve">·•●</text>
+<text x="104.0" y="146" fill="#64748B" xml:space="preserve">──────</text>
+<text x="154.4" y="146" fill="#A78BFA" xml:space="preserve">▸</text>
+<text x="162.8" y="146" fill="#A78BFA" font-weight="bold" xml:space="preserve"> Research docs</text>
+<text x="20.0" y="166" fill="#A78BFA" xml:space="preserve">  ⊕ spawn</text>
+<text x="95.6" y="166" fill="#94A3B8" xml:space="preserve"> general-purpose · now</text>
+<text x="20.0" y="186" fill="#4ADE80" xml:space="preserve">Research docs </text>
+<text x="137.6" y="186" fill="#64748B" xml:space="preserve">────────</text>
+<text x="204.8" y="186" fill="#4ADE80" xml:space="preserve">·•●</text>
+<text x="230.0" y="186" fill="#4ADE80" xml:space="preserve">─▸</text>
+<text x="246.8" y="186" fill="#4ADE80" xml:space="preserve"> main</text>
+<text x="20.0" y="206" fill="#4ADE80" xml:space="preserve">  ↩</text>
+<text x="45.2" y="206" fill="#94A3B8" xml:space="preserve"> hand-back result handed back · now</text>
+<rect x="20.0" y="233" width="50.4" height="18" rx="4" fill="#FBBF24"/>
+<text x="28.4" y="246" fill="#0F0A1F" font-weight="bold" xml:space="preserve">REPO</text>
+<text x="20.0" y="266" fill="#FBBF24" font-weight="bold" xml:space="preserve">⎇ feature/wire</text>
+<text x="137.6" y="266" fill="#22D3EE" xml:space="preserve"> ↑2</text>
+<text x="20.0" y="286" fill="#4ADE80" xml:space="preserve">+1 staged  </text>
+<text x="112.4" y="286" fill="#FBBF24" xml:space="preserve">~3 changed  </text>
+<text x="213.2" y="286" fill="#60A5FA" xml:space="preserve">?1 new</text>
+<text x="20.0" y="306" fill="#94A3B8" xml:space="preserve">“add live wire animation” · 4m ago</text>
+<rect x="20.0" y="333" width="92.4" height="18" rx="4" fill="#4ADE80"/>
+<text x="28.4" y="346" fill="#0F0A1F" font-weight="bold" xml:space="preserve">SCORECARD</text>
+<text x="20.0" y="366" fill="#94A3B8" xml:space="preserve">turns     </text>
+<text x="104.0" y="366" fill="#E8E6F5" xml:space="preserve">12 · avg 38s · 9 edits</text>
+<text x="20.0" y="386" fill="#94A3B8" xml:space="preserve">agents    </text>
+<text x="104.0" y="386" fill="#4ADE80" xml:space="preserve">3/3 ok · avg 1m 05s</text>
+<text x="20.0" y="406" fill="#94A3B8" xml:space="preserve">models    </text>
+<text x="104.0" y="406" fill="#22D3EE" xml:space="preserve">2× sonnet</text>
+<text x="179.6" y="406" fill="#64748B" xml:space="preserve"> · </text>
+<text x="204.8" y="406" fill="#4ADE80" xml:space="preserve">1× haiku</text>
+<text x="20.0" y="426" fill="#94A3B8" xml:space="preserve">saved     </text>
+<text x="104.0" y="426" fill="#4ADE80" xml:space="preserve">$1.84 vs all-Opus ✨</text>
+<rect x="20.0" y="453" width="58.8" height="18" rx="4" fill="#F472B6"/>
+<text x="28.4" y="466" fill="#0F0A1F" font-weight="bold" xml:space="preserve">USAGE</text>
+<text x="78.8" y="466" fill="#94A3B8" xml:space="preserve">  $2.31 this session</text>
+<text x="20.0" y="486" fill="#94A3B8" xml:space="preserve">5h  </text>
+<text x="53.6" y="486" fill="#4ADE80" xml:space="preserve">━━━━━━━━━</text>
+<text x="129.2" y="486" fill="#FBBF24" xml:space="preserve">━━━</text>
+<text x="154.4" y="486" fill="#64748B" xml:space="preserve">────────</text>
+<text x="221.6" y="486" fill="#FBBF24" font-weight="bold" xml:space="preserve"> 58%</text>
+<text x="20.0" y="506" fill="#94A3B8" xml:space="preserve">ctx </text>
+<text x="53.6" y="506" fill="#4ADE80" xml:space="preserve">━━━━</text>
+<text x="87.2" y="506" fill="#64748B" xml:space="preserve">────────────────</text>
+<text x="221.6" y="506" fill="#4ADE80" xml:space="preserve"> 21%</text>
+<rect x="20.0" y="533" width="67.2" height="18" rx="4" fill="#A78BFA"/>
+<text x="28.4" y="546" fill="#0F0A1F" font-weight="bold" xml:space="preserve">AGENTS</text>
+<text x="87.2" y="546" fill="#94A3B8" xml:space="preserve">  $0.42 · 86k tok · press to watch</text>
+<text x="20.0" y="566" fill="#A78BFA" xml:space="preserve">⠹ </text>
+<text x="36.8" y="566" fill="#E8E6F5" xml:space="preserve">Research docs </text>
+<text x="154.4" y="566" fill="#A78BFA" xml:space="preserve">running</text>
+<text x="20.0" y="586" fill="#22D3EE" font-weight="bold" xml:space="preserve">  sonnet</text>
+<text x="87.2" y="586" fill="#94A3B8" xml:space="preserve"> · 61k in · 4k out · </text>
+<text x="263.6" y="586" fill="#FBBF24" xml:space="preserve">$0.31</text>
+<rect x="20.0" y="613" width="58.8" height="18" rx="4" fill="#22D3EE"/>
+<text x="28.4" y="626" fill="#0F0A1F" font-weight="bold" xml:space="preserve">BRAIN</text>
+<rect x="20.0" y="633" width="50.4" height="18" rx="4" fill="#A78BFA"/>
+<text x="28.4" y="646" fill="#0F0A1F" font-weight="bold" xml:space="preserve">auto</text>
+<rect x="78.8" y="633.5" width="50.4" height="17" rx="4" fill="none" stroke="#64748B" stroke-width="1"/>
+<text x="87.2" y="646" fill="#E8E6F5" xml:space="preserve">opus</text>
+<rect x="137.6" y="633.5" width="67.2" height="17" rx="4" fill="none" stroke="#64748B" stroke-width="1"/>
+<text x="146.0" y="646" fill="#E8E6F5" xml:space="preserve">sonnet</text>
+<rect x="213.2" y="633.5" width="58.8" height="17" rx="4" fill="none" stroke="#64748B" stroke-width="1"/>
+<text x="221.6" y="646" fill="#E8E6F5" xml:space="preserve">haiku</text>
+<rect x="280.4" y="633.5" width="42.0" height="17" rx="4" fill="none" stroke="#64748B" stroke-width="1"/>
+<text x="288.8" y="646" fill="#E8E6F5" xml:space="preserve">off</text>
+<text x="20.0" y="666" fill="#22D3EE" font-weight="bold" xml:space="preserve">sonnet</text>
+<text x="70.4" y="666" fill="#94A3B8" xml:space="preserve">·medium — haiku judged</text>
+<text x="20.0" y="686" fill="#94A3B8" xml:space="preserve">CTO mode </text>
+<rect x="95.6" y="673" width="33.6" height="18" rx="4" fill="#4ADE80"/>
+<text x="104.0" y="686" fill="#0F0A1F" font-weight="bold" xml:space="preserve">on</text>
+<text x="129.2" y="686" fill="#94A3B8" xml:space="preserve"> opus plans, sonnet/haiku do</text>
+<text x="28.4" y="726" fill="#A78BFA" font-weight="bold" xml:space="preserve">★ Lv4</text>
+<text x="70.4" y="726" fill="#F472B6" xml:space="preserve"> Agent Wrangler</text>
+<text x="196.4" y="726" fill="#FBBF24" xml:space="preserve"> 🔥3d</text>
+<text x="28.4" y="746" fill="#A78BFA" xml:space="preserve">━</text>
+<text x="36.8" y="746" fill="#B686EC" xml:space="preserve">━</text>
+<text x="45.2" y="746" fill="#C681DF" xml:space="preserve">━</text>
+<text x="53.6" y="746" fill="#D57CD1" xml:space="preserve">━</text>
+<text x="62.0" y="746" fill="#E577C4" xml:space="preserve">━</text>
+<text x="70.4" y="746" fill="#F472B6" xml:space="preserve">━</text>
+<text x="78.8" y="746" fill="#F58199" xml:space="preserve">━</text>
+<text x="87.2" y="746" fill="#F7917C" xml:space="preserve">━</text>
+<text x="95.6" y="746" fill="#F8A05E" xml:space="preserve">━</text>
+<text x="104.0" y="746" fill="#FAB041" xml:space="preserve">━</text>
+<text x="112.4" y="746" fill="#FBBF24" xml:space="preserve">━</text>
+<text x="120.8" y="746" fill="#64748B" xml:space="preserve">─────</text>
+<text x="162.8" y="746" fill="#94A3B8" xml:space="preserve"> 642/800 xp</text>
+<text x="28.4" y="766" fill="#94A3B8" xml:space="preserve">TL;DR replies </text>
+<rect x="146.0" y="753" width="33.6" height="18" rx="4" fill="#4ADE80"/>
+<text x="154.4" y="766" fill="#0F0A1F" font-weight="bold" xml:space="preserve">on</text>
+</g>
+<rect x="0.5" y="0.5" width="439" height="791" rx="12" fill="none" stroke="#2A2545"/>
+</svg>

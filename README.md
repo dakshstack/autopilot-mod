@@ -2,17 +2,24 @@
 
 A Claude Code mod that picks the right model for each prompt, sends cheap jobs to cheaper subagents, and puts a mission-control pane beside your chat.
 
+<p align="center"><img src="docs/pane.svg" alt="Autopilot mission-control pane" width="440"></p>
+
+<p align="center"><img src="docs/band.svg" alt="Above-prompt band"></p>
+
 ## What it does
 
-- **Auto model routing.** Each prompt is rated quick, standard or deep, and the mod switches to haiku, sonnet or opus to match. Start a prompt with `++` to force max effort, or `--` to force quick.
+- **Auto model routing.** Each prompt is rated quick, standard or deep, and the mod switches to haiku, sonnet or opus to match. Start a prompt with `++ ` (with a space) to force max effort, or `-- ` to force quick. The auto rating can take up to 2.5s on a quick Haiku call before your prompt is sent.
 - **CTO mode.** Opus plans the work and hands the edits and searches to sonnet or haiku subagents.
 - **TL;DR replies.** Answers start with a one-line result, followed by a few short bullets.
 - **Mission-control pane:**
   - Live view of the current tool and timer.
-  - One-key buttons: commit, test, review, push, fix error.
+  - One-key buttons: commit, test, review, push, fix error. Push and fix error only fill your prompt box, so you review the prompt and press Enter yourself.
   - Git status and the files touched this session.
   - Rate-limit and context meters, with per-agent token and dollar spend.
 - **Live wire.** Animated rows for messages moving between your session, its agents and other sessions.
+
+  <img src="docs/wire.svg" alt="Live wire animation" width="580">
+
 - **Above-prompt band.** One line showing the mode, running agents, usage, branch and level.
 - **XP and streaks**, just for fun.
 
@@ -40,6 +47,10 @@ In the desktop app: click **+** next to the prompt box, then **Plugins**, then *
 - `/ap auto | opus | sonnet | haiku | off`: set the mode
 - `/ap cto`: toggle CTO mode
 - `/ap tldr`: toggle TL;DR replies
+
+## Defaults
+
+TL;DR replies and CTO mode are **on** by default and change how Claude answers. Turn them off with `/ap tldr` and `/ap cto`. In non-interactive runs (`claude -p`, SDK), the pane and timers stay off.
 
 ## License
 

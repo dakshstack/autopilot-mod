@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="232" viewBox="0 0 580 232" font-family="SF Mono, Menlo, Consolas, monospace" font-size="14">
+<title>Autopilot wire</title>
+<defs><clipPath id="win"><rect width="580" height="232" rx="12"/></clipPath></defs>
+<g clip-path="url(#win)">
+<rect width="580" height="232" fill="#13111F"/>
+<rect width="580" height="36" fill="#1E1A33"/>
+<circle cx="22" cy="18" r="6" fill="#FF5F57"/><circle cx="42" cy="18" r="6" fill="#FEBC2E"/><circle cx="62" cy="18" r="6" fill="#28C840"/>
+<text x="290.0" y="23" text-anchor="middle" fill="#94A3B8" font-size="13">Autopilot wire</text>
+<rect x="14" y="48" width="507.2" height="168" rx="8" fill="#1E1A33" stroke="#A78BFA" stroke-width="1.5"/>
+<text x="34.0" y="66" fill="#A78BFA" font-weight="bold" xml:space="preserve">main </text>
+<text x="76.0" y="66" fill="#64748B" xml:space="preserve">─────────────────────────────</text>
+<text x="319.6" y="66" fill="#A78BFA" xml:space="preserve">▸</text>
+<text x="328.0" y="66" fill="#A78BFA" font-weight="bold" xml:space="preserve"> Research docs</text>
+<text x="34.0" y="86" fill="#A78BFA" xml:space="preserve">  ⊕ spawn</text>
+<text x="109.6" y="86" fill="#94A3B8" xml:space="preserve"></text>
+<text x="109.6" y="86" fill="#94A3B8" xml:space="preserve"> · now</text>
+<text x="34.0" y="126" fill="#22D3EE" font-weight="bold" xml:space="preserve">main </text>
+<text x="76.0" y="126" fill="#64748B" xml:space="preserve">─────────────────────────────</text>
+<text x="319.6" y="126" fill="#22D3EE" xml:space="preserve">▸</text>
+<text x="328.0" y="126" fill="#22D3EE" font-weight="bold" xml:space="preserve"> Fix tests</text>
+<text x="34.0" y="146" fill="#22D3EE" xml:space="preserve">  ✉ message</text>
+<text x="126.4" y="146" fill="#94A3B8" xml:space="preserve">  also check the dates</text>
+<text x="311.2" y="146" fill="#94A3B8" xml:space="preserve"></text>
+<text x="34.0" y="186" fill="#4ADE80" font-weight="bold" xml:space="preserve">Research docs </text>
+<text x="151.6" y="186" fill="#64748B" xml:space="preserve">─────────────────────────────</text>
+<text x="395.2" y="186" fill="#4ADE80" xml:space="preserve">▸</text>
+<text x="403.6" y="186" fill="#4ADE80" font-weight="bold" xml:space="preserve"> main</text>
+<text x="34.0" y="206" fill="#4ADE80" xml:space="preserve">  ↩ hand-back</text>
+<text x="143.2" y="206" fill="#94A3B8" xml:space="preserve"></text>
+<text x="143.2" y="206" fill="#94A3B8" xml:space="preserve"> · now</text>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="218.4 0" dur="1.4s" repeatCount="indefinite"/><rect x="75.0" y="53" width="27.2" height="18" fill="#1E1A33"/><text x="76.0" y="66" fill="#A78BFA" font-weight="bold" xml:space="preserve">·•●</text></g>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="218.4 0" dur="1.4s" repeatCount="indefinite"/><rect x="75.0" y="113" width="27.2" height="18" fill="#1E1A33"/><text x="76.0" y="126" fill="#22D3EE" font-weight="bold" xml:space="preserve">·•●</text></g>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="218.4 0" dur="1.4s" repeatCount="indefinite"/><rect x="150.6" y="173" width="27.2" height="18" fill="#1E1A33"/><text x="151.6" y="186" fill="#4ADE80" font-weight="bold" xml:space="preserve">·•●</text></g>
+</g>
+<rect x="0.5" y="0.5" width="579" height="231" rx="12" fill="none" stroke="#2A2545"/>
+</svg>
