@@ -1,0 +1,6 @@
+{
+  "name": "autopilot",
+  "version": "0.1.0",
+  "description": "Auto-picks the model per prompt, routes subagents, TL;DR answers, a glanceable HUD, pings when work is done, and XP for shipping.",
+  "types": "./types/index.d.ts"
+}

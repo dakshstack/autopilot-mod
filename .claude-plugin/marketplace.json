@@ -1,0 +1,5 @@
+{
+  "name": "autopilot-mod",
+  "owner": { "name": "dakshstack" },
+  "plugins": [{ "name": "autopilot", "source": "./" }]
+}
